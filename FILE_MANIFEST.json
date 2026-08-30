@@ -1,0 +1,350 @@
+[
+  {
+    "path": "APPLY-v1.1.1.md",
+    "size": 234
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size": 822
+  },
+  {
+    "path": "CLAUDE_DEPLOYMENT_MANIFEST.json",
+    "size": 783
+  },
+  {
+    "path": "CLAUDE_PACKAGE_MANIFEST.json",
+    "size": 466
+  },
+  {
+    "path": "CLAUDE_PROJECT_INSTRUCTIONS.md",
+    "size": 4319
+  },
+  {
+    "path": "CLAUDE_UPDATE_GUIDE.md",
+    "size": 489
+  },
+  {
+    "path": "Claude-Upload/CLAUDE_DEPLOYMENT_MANIFEST.json",
+    "size": 783
+  },
+  {
+    "path": "Claude-Upload/CLAUDE_PACKAGE_MANIFEST.json",
+    "size": 466
+  },
+  {
+    "path": "Claude-Upload/CLAUDE_PROJECT_INSTRUCTIONS.md",
+    "size": 4319
+  },
+  {
+    "path": "Claude-Upload/CLAUDE_UPDATE_GUIDE.md",
+    "size": 489
+  },
+  {
+    "path": "Claude-Upload/DEPLOYMENT_TEST.md",
+    "size": 417
+  },
+  {
+    "path": "Claude-Upload/PRODUCT_IDENTITY.json",
+    "size": 330
+  },
+  {
+    "path": "Claude-Upload/SHARED_VERSION",
+    "size": 6
+  },
+  {
+    "path": "Claude-Upload/VERSION",
+    "size": 6
+  },
+  {
+    "path": "Claude-Upload/contracts/common-envelope-v1.schema.json",
+    "size": 1748
+  },
+  {
+    "path": "Claude-Upload/contracts/merge-plan-v1.schema.json",
+    "size": 750
+  },
+  {
+    "path": "Claude-Upload/contracts/merge-treatment-request-v1.schema.json",
+    "size": 2306
+  },
+  {
+    "path": "Claude-Upload/contracts/merge-treatment-result-v1.schema.json",
+    "size": 2246
+  },
+  {
+    "path": "Claude-Upload/contracts/platform-error-v1.schema.json",
+    "size": 2080
+  },
+  {
+    "path": "Claude-Upload/knowledge/CANNIBALIZATION_RULES.md",
+    "size": 257
+  },
+  {
+    "path": "Claude-Upload/knowledge/MERGE_WRITING_RULES.md",
+    "size": 3216
+  },
+  {
+    "path": "Claude-Upload/knowledge/PRESERVATION_RULES.md",
+    "size": 170
+  },
+  {
+    "path": "Claude-Upload/knowledge/QUERY_MAPPING_RULES.md",
+    "size": 99
+  },
+  {
+    "path": "Claude-Upload/knowledge/ROLLBACK_RULES.md",
+    "size": 142
+  },
+  {
+    "path": "Claude-Upload/runtime/OUTPUT_PROTOCOL.md",
+    "size": 2682
+  },
+  {
+    "path": "Claude-Upload/runtime/RUNTIME.md",
+    "size": 2315
+  },
+  {
+    "path": "Claude-Upload/shared/contracts/common/common-envelope-v1.schema.json",
+    "size": 1748
+  },
+  {
+    "path": "Claude-Upload/shared/contracts/merge/merge-plan-v1.schema.json",
+    "size": 750
+  },
+  {
+    "path": "Claude-Upload/shared/contracts/merge/merge-treatment-request-v1.schema.json",
+    "size": 2306
+  },
+  {
+    "path": "Claude-Upload/shared/contracts/merge/merge-treatment-result-v1.schema.json",
+    "size": 2246
+  },
+  {
+    "path": "Claude-Upload/shared/contracts/platform/platform-error-v1.schema.json",
+    "size": 2080
+  },
+  {
+    "path": "Claude-Upload/shared/enums/priority.json",
+    "size": 131
+  },
+  {
+    "path": "Claude-Upload/shared/enums/result-status.json",
+    "size": 243
+  },
+  {
+    "path": "Claude-Upload/shared/enums/treatment-type.json",
+    "size": 599
+  },
+  {
+    "path": "Claude-Upload/shared/platform/SNAPSHOT_MANIFEST.json",
+    "size": 704
+  },
+  {
+    "path": "Claude-Upload/validation/MERGE_VALIDATION.md",
+    "size": 107
+  },
+  {
+    "path": "Claude-Upload/validation/RC2_MACHINE_RESULT_ACCEPTANCE.md",
+    "size": 433
+  },
+  {
+    "path": "Claude-Upload/validation/RC3_PUBLICATION_QUALITY_ACCEPTANCE.md",
+    "size": 571
+  },
+  {
+    "path": "Claude-Upload/validation/SAFETY_VALIDATION.md",
+    "size": 134
+  },
+  {
+    "path": "DEPLOYMENT_TEST.md",
+    "size": 417
+  },
+  {
+    "path": "PRODUCT_IDENTITY.json",
+    "size": 330
+  },
+  {
+    "path": "README.md",
+    "size": 494
+  },
+  {
+    "path": "RELEASE_NOTES_v1.1.1.md",
+    "size": 557
+  },
+  {
+    "path": "RELEASE_NOTES_v1.1.2.md",
+    "size": 545
+  },
+  {
+    "path": "SHARED_VERSION",
+    "size": 6
+  },
+  {
+    "path": "VERSION",
+    "size": 6
+  },
+  {
+    "path": "claude-project/FILE_LIST.md",
+    "size": 376
+  },
+  {
+    "path": "claude-project/INSTALLATION_GUIDE.md",
+    "size": 110
+  },
+  {
+    "path": "claude-project/REMOVED_FILES.md",
+    "size": 55
+  },
+  {
+    "path": "contracts/common-envelope-v1.schema.json",
+    "size": 1748
+  },
+  {
+    "path": "contracts/merge-plan-v1.schema.json",
+    "size": 750
+  },
+  {
+    "path": "contracts/merge-treatment-request-v1.schema.json",
+    "size": 2306
+  },
+  {
+    "path": "contracts/merge-treatment-result-v1.schema.json",
+    "size": 2246
+  },
+  {
+    "path": "contracts/platform-error-v1.schema.json",
+    "size": 2080
+  },
+  {
+    "path": "knowledge/CANNIBALIZATION_RULES.md",
+    "size": 257
+  },
+  {
+    "path": "knowledge/MERGE_WRITING_RULES.md",
+    "size": 3216
+  },
+  {
+    "path": "knowledge/PRESERVATION_RULES.md",
+    "size": 170
+  },
+  {
+    "path": "knowledge/QUERY_MAPPING_RULES.md",
+    "size": 99
+  },
+  {
+    "path": "knowledge/ROLLBACK_RULES.md",
+    "size": 142
+  },
+  {
+    "path": "runtime/OUTPUT_PROTOCOL.md",
+    "size": 2682
+  },
+  {
+    "path": "runtime/RUNTIME.md",
+    "size": 2315
+  },
+  {
+    "path": "shared/SNAPSHOT_MANIFEST.json",
+    "size": 652
+  },
+  {
+    "path": "shared/contracts/common/common-envelope-v1.schema.json",
+    "size": 1748
+  },
+  {
+    "path": "shared/contracts/merge/merge-plan-v1.schema.json",
+    "size": 750
+  },
+  {
+    "path": "shared/contracts/merge/merge-treatment-request-v1.schema.json",
+    "size": 2306
+  },
+  {
+    "path": "shared/contracts/merge/merge-treatment-result-v1.schema.json",
+    "size": 2246
+  },
+  {
+    "path": "shared/contracts/platform/platform-error-v1.schema.json",
+    "size": 2080
+  },
+  {
+    "path": "shared/enums/priority.json",
+    "size": 131
+  },
+  {
+    "path": "shared/enums/result-status.json",
+    "size": 243
+  },
+  {
+    "path": "shared/enums/treatment-type.json",
+    "size": 599
+  },
+  {
+    "path": "tests/fixtures/M001-confirmed-merge.json",
+    "size": 75
+  },
+  {
+    "path": "tests/fixtures/M002-keep-both.json",
+    "size": 64
+  },
+  {
+    "path": "tests/fixtures/M003-role-separation.json",
+    "size": 85
+  },
+  {
+    "path": "tests/fixtures/M004-old-new.json",
+    "size": 67
+  },
+  {
+    "path": "tests/fixtures/M005-low-evidence.json",
+    "size": 79
+  },
+  {
+    "path": "tests/fixtures/M006-revenue.json",
+    "size": 75
+  },
+  {
+    "path": "tests/fixtures/M007-experience-preservation.json",
+    "size": 90
+  },
+  {
+    "path": "tests/fixtures/M008-backlink-redirect.json",
+    "size": 80
+  },
+  {
+    "path": "tests/fixtures/M009-creator-referral.json",
+    "size": 78
+  },
+  {
+    "path": "tests/fixtures/M010-merge-writing.json",
+    "size": 97
+  },
+  {
+    "path": "tests/fixtures/M011-rollback.json",
+    "size": 71
+  },
+  {
+    "path": "tests/fixtures/M012-id-integrity.json",
+    "size": 70
+  },
+  {
+    "path": "tests/fixtures/M013-merged-article.json",
+    "size": 92
+  },
+  {
+    "path": "validation/MERGE_VALIDATION.md",
+    "size": 601
+  },
+  {
+    "path": "validation/RC2_MACHINE_RESULT_ACCEPTANCE.md",
+    "size": 433
+  },
+  {
+    "path": "validation/RC3_PUBLICATION_QUALITY_ACCEPTANCE.md",
+    "size": 571
+  },
+  {
+    "path": "validation/SAFETY_VALIDATION.md",
+    "size": 134
+  }
+]
