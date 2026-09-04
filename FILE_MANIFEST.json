@@ -17,11 +17,11 @@
   },
   {
     "path": "CLAUDE_PROJECT_INSTRUCTIONS.md",
-    "size": 4319
+    "size": 4405
   },
   {
     "path": "CLAUDE_UPDATE_GUIDE.md",
-    "size": 489
+    "size": 823
   },
   {
     "path": "Claude-Upload/CLAUDE_DEPLOYMENT_MANIFEST.json",
@@ -33,15 +33,15 @@
   },
   {
     "path": "Claude-Upload/CLAUDE_PROJECT_INSTRUCTIONS.md",
-    "size": 4319
+    "size": 4405
   },
   {
     "path": "Claude-Upload/CLAUDE_UPDATE_GUIDE.md",
-    "size": 489
+    "size": 823
   },
   {
     "path": "Claude-Upload/DEPLOYMENT_TEST.md",
-    "size": 417
+    "size": 575
   },
   {
     "path": "Claude-Upload/PRODUCT_IDENTITY.json",
@@ -157,7 +157,7 @@
   },
   {
     "path": "DEPLOYMENT_TEST.md",
-    "size": 417
+    "size": 575
   },
   {
     "path": "PRODUCT_IDENTITY.json",
@@ -173,7 +173,7 @@
   },
   {
     "path": "RELEASE_NOTES_v1.1.2.md",
-    "size": 545
+    "size": 877
   },
   {
     "path": "SHARED_VERSION",

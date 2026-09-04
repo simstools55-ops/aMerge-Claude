@@ -1,8 +1,8 @@
 # aMerge Claude
 
-aMerge 1.1.1のClaude Project実行パッケージです。
+aMerge 1.1.2のClaude Project実行パッケージです。
 
-- Package Version: 1.1.1
+- Package Version: 1.1.2
 - Compatible Product: aMerge 1.1.x
 - Shared Version: 3.3.0
 - Repository Type: Claude Runtime Package

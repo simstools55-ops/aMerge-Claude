@@ -1,7 +1,7 @@
 {
   "deployment_manifest_version": "1.0",
   "package_name": "SIMS-Merge-Claude",
-  "package_version": "1.1.1",
+  "package_version": "1.1.2",
   "product_code": "MERGE",
   "shared_version": "3.3.0",
   "platform_compatibility": "1.x",
@@ -22,5 +22,5 @@
     "shared/VERSION",
     "legacy Shared snapshots earlier than 3.3.0"
   ],
-  "generated_at": "2026-08-15T08:10:00+09:00"
+  "generated_at": "2026-09-04T18:37:00+09:00"
 }
